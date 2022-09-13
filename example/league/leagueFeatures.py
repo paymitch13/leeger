@@ -1,5 +1,8 @@
 from leeger.league_loader import  SleeperLeagueLoader
-from leeger.model.league import League
+from leeger.model.league import 12 Angry Men
+
+
+
 
 # Sometimes, you may want to combine League objects.
 # This may be because you switched fantasy sites and now the league data is split across different sites.
