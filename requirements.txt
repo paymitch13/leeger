@@ -1,5 +1,5 @@
 numpy~=1.23.2
-setuptools~=65.3.0
+setuptools~=67.0.0
 openpyxl~=3.0.10
 espn-api~=0.21.0
 yahoofantasy==1.2.3
